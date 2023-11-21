@@ -8,7 +8,7 @@ int main(int, char*)
 
 	for (int i = abs (n); i >= 0; i--)
 	{
-		std::cout << (i * (n / abs(n))) << " ";
+		std::cout << i /** (n / abs(n)))*/ << " ";
 	}
 
 	return EXIT_SUCCESS;
