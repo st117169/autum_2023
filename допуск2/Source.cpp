@@ -122,7 +122,7 @@ bool ch_pl(int a, int b)
     b = k;
 }
 
-void bubblesort(int* a, int n)
+void bubblesort(int*& a, int& n)
 {
     int k = 0;
     for (int i = 0; i < n-1; i++)
@@ -137,7 +137,7 @@ void bubblesort(int* a, int n)
     }
 }
 
-void insertionsort(int* a, int n) 
+void insertionsort(int*& a, int& n) 
 {
     int k = 0;
     for (int i = 1; i < n; i++)
@@ -152,7 +152,7 @@ void insertionsort(int* a, int n)
     }
 }
 
-void selectionsort(int* a, int n) 
+void selectionsort(int*& a, int& n) 
 {
     int min = 0;
     for (int i = 0; i < n; i++)
