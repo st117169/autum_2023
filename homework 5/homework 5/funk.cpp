@@ -30,8 +30,13 @@ void print(int* a, int n)
 void up_size(int*& a, int& n)
 {
 	n++;
+	int* b = new int[n];
+	for (int i = 0; i < n -1; i++) {
+		b[i] = a[i];
+	}
 	delete[] a;
 	a = new int[n];
+	a = b;
 }
 void add(int*& a, int& n) {
 	int c = 0;
