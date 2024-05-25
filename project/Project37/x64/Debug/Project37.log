@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\USER\source\repos\Project37\Source.cpp(275,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Project37\Source.cpp(284,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Project37\Source.cpp(316,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Project37\Source.cpp(323,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Project37\Source.cpp(358,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Project37\Source.cpp(194,1): warning C4715: svector<Account>::get: значение возвращается не при всех путях выполнения
+C:\Users\USER\source\repos\Project37\Source.cpp(205,1): warning C4715: svector<Account>::search: значение возвращается не при всех путях выполнения
+  Project37.vcxproj -> C:\Users\USER\source\repos\Project37\x64\Debug\Project37.exe
