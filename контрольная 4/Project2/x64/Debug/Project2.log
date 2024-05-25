@@ -1,0 +1,6 @@
+﻿Source.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_OpenAudioDevice в функции SDL_main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_PauseAudioDevice в функции SDL_main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_CloseAudioDevice в функции SDL_main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_Init в функции SDL_main.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\spbu\autum_2023\контрольная 4\Project2\x64\Debug\Project2.exe : fatal error LNK1120: неразрешенных внешних элементов: 5

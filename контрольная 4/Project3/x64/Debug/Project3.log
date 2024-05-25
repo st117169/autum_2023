@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(41,5): error C2065: vector: необъявленный идентификатор
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(41,13): error C2275: cmplx: недопустимое использование этого типа в качестве выражения
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(17): message : см. объявление "cmplx"
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(41,20): error C2065: even: необъявленный идентификатор
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(43,9): error C2065: even: необъявленный идентификатор
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(49,18): error C2065: even: необъявленный идентификатор
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(60,14): error C2065: even: необъявленный идентификатор
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(60,18): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(104,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(121,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\spbu\autum_2023\контрольная 4\Project3\Source.cpp(122,48): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
