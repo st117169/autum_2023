@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\spbu\autum_2023\homework 7\task 2.1\Source.cpp(7,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  task 2.1.vcxproj -> C:\spbu\autum_2023\homework 7\task 2.1\x64\Debug\task 2.1.exe
